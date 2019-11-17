@@ -1,0 +1,28 @@
+---
+ID: 301
+post_title: Contact Us
+author: ileedeveloper
+post_excerpt: ""
+layout: page
+permalink: http://localhost/cosmos/contact-us/
+published: true
+post_date: 2019-10-22 01:25:01
+---
+<div id="pl-301"  class="panel-layout" ><div id="pg-301-0"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div id="pgc-301-0-0"  class="panel-grid-cell"  data-weight="1" ><div id="panel-301-0-0-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >[siteorigin_widget class="SiteOrigin_Widget_Image_Widget"]<input type="hidden" value="{&quot;instance&quot;:{&quot;image&quot;:311,&quot;image_fallback&quot;:&quot;&quot;,&quot;size&quot;:&quot;medium_large&quot;,&quot;align&quot;:&quot;center&quot;,&quot;title_align&quot;:&quot;default&quot;,&quot;title&quot;:&quot;&quot;,&quot;title_position&quot;:&quot;hidden&quot;,&quot;alt&quot;:&quot;Cosmo&#039;s Van&quot;,&quot;url&quot;:&quot;&quot;,&quot;bound&quot;:true,&quot;_sow_form_id&quot;:&quot;6925405175dae67538543d530275728&quot;,&quot;_sow_form_timestamp&quot;:&quot;1571871652989&quot;,&quot;new_window&quot;:false,&quot;full_width&quot;:false,&quot;so_sidebar_emulator_id&quot;:&quot;sow-image-30110000&quot;,&quot;option_name&quot;:&quot;widget_sow-image&quot;},&quot;args&quot;:{&quot;before_widget&quot;:&quot;&lt;div id=\&quot;panel-301-0-0-0\&quot; class=\&quot;so-panel widget widget_sow-image panel-first-child panel-last-child\&quot; data-index=\&quot;0\&quot; data-style=\&quot;{&amp;quot;background_image_attachment&amp;quot;:false,&amp;quot;background_display&amp;quot;:&amp;quot;tile&amp;quot;}\&quot; &gt;&quot;,&quot;after_widget&quot;:&quot;&lt;\/div&gt;&quot;,&quot;before_title&quot;:&quot;&lt;h3 class=\&quot;widget-title\&quot;&gt;&quot;,&quot;after_title&quot;:&quot;&lt;\/h3&gt;&quot;,&quot;widget_id&quot;:&quot;widget-0-0-0&quot;}}" />[/siteorigin_widget]</div></div></div><div id="pg-301-1"  class="panel-grid panel-no-style"  data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}"  data-ratio="1"  data-ratio-direction="right" ><div id="pgc-301-1-0"  class="panel-grid-cell"  data-weight="0.5" ><div id="panel-301-1-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="1" data-style="{&quot;padding&quot;:&quot;0% 0% 0% 30%&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="panel-widget-style panel-widget-style-for-301-1-0-0" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	<strong>Jayen Food Concepts Ltd </strong>
+(Head Office of Cosmo's Kitchen)
+
+<b>Address:</b>
+71 C Wiri Station Road, Manukau,
+Auckland 2104, New Zealand.
+<b>Phone:</b> 09 262 1120
+<b>Free Phone:</b> 0800 62 22 20
+
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3186.477012542538!2d174.87239831529547!3d-36.998414979908276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d4deb9bda9ea1%3A0x3d82bf2742a82d!2s71c+Wiri+Station+Rd%2C+Wiri%2C+Auckland+2104!5e0!3m2!1sen!2snz!4v1533777299673" width="400" height="300" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div></div></div></div><div id="pgc-301-1-1"  class="panel-grid-cell"  data-weight="0.5" ><div id="panel-301-1-1-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="2" data-style="{&quot;padding&quot;:&quot;0% 30% 0% 0%&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" ><div class="panel-widget-style panel-widget-style-for-301-1-1-0" ><div class="so-widget-sow-editor so-widget-sow-editor-base">
+<div class="siteorigin-widget-tinymce textwidget">
+	[contact-form-7 id="308" title="Contact form"]</div>
+</div></div></div></div></div></div>
+
+<style type="text/css" class="panels-style" data-panels-style-for-post="301">@import url(http://localhost/cosmos/wp-content/plugins/siteorigin-panels/css/front-flex.min.css); #pgc-301-0-0 { width:100%;width:calc(100% - ( 0 * 30px ) ) } #pl-301 #panel-301-0-0-0 , #pl-301 #panel-301-1-0-0 , #pl-301 #panel-301-1-1-0 {  } #pg-301-0 , #pl-301 .so-panel { margin-bottom:30px } #pgc-301-1-0 , #pgc-301-1-1 { width:50%;width:calc(50% - ( 0.5 * 30px ) ) } #pl-301 .so-panel:last-child { margin-bottom:0px } #pg-301-0.panel-no-style, #pg-301-0.panel-has-style > .panel-row-style , #pg-301-1.panel-no-style, #pg-301-1.panel-has-style > .panel-row-style { -webkit-align-items:flex-start;align-items:flex-start } #panel-301-1-0-0> .panel-widget-style { padding:0% 0% 0% 30% } #panel-301-1-1-0> .panel-widget-style { padding:0% 30% 0% 0% } @media (max-width:780px){ #pg-301-0.panel-no-style, #pg-301-0.panel-has-style > .panel-row-style , #pg-301-1.panel-no-style, #pg-301-1.panel-has-style > .panel-row-style { -webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column } #pg-301-0 .panel-grid-cell , #pg-301-1 .panel-grid-cell { margin-right:0 } #pg-301-0 .panel-grid-cell , #pg-301-1 .panel-grid-cell { width:100% } #pgc-301-1-0 { margin-bottom:30px } #pl-301 .panel-grid-cell { padding:0 } #pl-301 .panel-grid .panel-grid-cell-empty { display:none } #pl-301 .panel-grid .panel-grid-cell-mobile-last { margin-bottom:0px }  } </style>
